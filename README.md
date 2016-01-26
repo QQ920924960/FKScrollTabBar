@@ -3,3 +3,5 @@
 
 
 练手用的demo
+
+![](https://github.com/QQ920924960/FKScrollTabBar/blob/master/Screenshots/FKScrollTabBar.gif)
